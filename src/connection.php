@@ -22,7 +22,8 @@ class Connection {
 	}
 
 
-
+ 
+ 
 	/** 
 	* Send a POST requst using cURL 
 	* @param string $url to request 
