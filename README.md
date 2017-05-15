@@ -1,0 +1,1 @@
+Simple Twitter Search API Wrapper for PHP
